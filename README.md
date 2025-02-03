@@ -10,8 +10,7 @@ Real-Time Prediction: The system displays predictions instantly, showing both th
 Efficient Image Preprocessing: Images are resized and normalized for compatibility with the model, ensuring accurate predictions every time.  
 
 Requirements
-Before you get started, make sure you have:
-
+Before you get started, make sure you have:  
 Python 3.x.  
 TensorFlow.  
 OpenCV.   
@@ -77,9 +76,6 @@ Voice Output
 Once the gesture is recognized, it is converted to speech. Below is an example of the speech output for the letter "A":
 
 ![Screenshot 2025-02-03 210534](https://github.com/user-attachments/assets/b90d4519-1095-44d3-8410-ed3e95d16726)
-
-License
-This project is licensed under the MIT License. For more details, please check out the LICENSE file.
 
 Acknowledgements
 A big thanks to the tools and libraries that made this project possible:
