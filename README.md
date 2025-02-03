@@ -88,10 +88,13 @@ TensorFlow: For powering the deep learning model that drives gesture recognition
 OpenCV: For efficient image processing.   
 gTTS: For converting the predicted text into speech.   
 The ASL Dataset: For providing the necessary data to train the model.  
+
+
 Contributing
 
 We’d love to see your contributions! Whether it's fixing a bug, adding a new feature, or improving documentation, feel free to fork the repo, create a new branch, and submit a pull request. Please ensure your contributions are well-tested and adhere to the project's coding standards.
 
 
 Contact
+
 Have questions or feedback? You can open an issue on GitHub, or feel free to reach out to me directly via my GitHub profile.
