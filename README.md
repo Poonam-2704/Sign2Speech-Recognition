@@ -1,4 +1,4 @@
-##Sign Language to Text and Speech Conversion
+ # Sign Language to Text and Speech Conversion
 
 Project Overview
 This project is designed to bridge the communication gap by recognizing American Sign Language (ASL) gestures and translating them into text and speech. Using Convolutional Neural Networks (CNN), the model can accurately identify hand gestures representing the alphabet (A-Z) and numbers (0-9). Once the gesture is recognized, it is converted to text and then to speech using Google Text-to-Speech (gTTS), making it accessible for verbal communication.
